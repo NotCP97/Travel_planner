@@ -1,3 +1,14 @@
+
+# Travel_planer
+
+*This rails has apis in form of ActiveInteractons
+we have apis folder which has json file for exposing the api.
+
+*JWT authentication used for users
+
+*This backend is tested on [frontend](https://github.com/kim-jenny5/my-travelogue-frontend) with some changes in fetch method
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,13 +33,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Travel_planer
-
-*This rails has apis in form of ActiveInteractons
-we have apis folder which has json file for exposing the api.
-
-*JWT authentication used for users
-
-*This backend is tested on [frontend](https://github.com/kim-jenny5/my-travelogue-frontend) with some changes in fetch method
-
-
