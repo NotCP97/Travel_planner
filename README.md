@@ -29,6 +29,6 @@ we have apis folder which has json file for exposing the api.
 
 *JWT authentication used for users
 
-*This backend is tested on [frontend] (https://github.com/kim-jenny5/my-travelogue-frontend) with some changes in fetch method
+*This backend is tested on [frontend](https://github.com/kim-jenny5/my-travelogue-frontend) with some changes in fetch method
 
 
