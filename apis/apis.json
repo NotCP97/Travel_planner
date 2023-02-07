@@ -1,0 +1,48 @@
+{
+  "hello": {
+    "method": "get",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "list_trips": {
+    "method": "get",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "list_places": {
+    "method": "get",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "login": {
+    "method": "post",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "create_trip": {
+    "method": "post",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "create_place": {
+    "method": "post",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "create_user": {
+    "method": "post",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "get_user": {
+    "method": "get",
+    "access_type": "public",
+    "display_name": "hello"
+  },
+  "authorized": {
+    "method": "get",
+    "access_type": "public",
+    "display_name": "hello"
+  }
+
+}
